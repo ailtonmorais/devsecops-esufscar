@@ -10,7 +10,7 @@
 Material criado para o seminário que aborda DevSecOps como parte da avaliação da disciplina de Engenharia de Software (2021/2) - Prof. Dr. Alexandre Alvaro, do programa de mestrado em Ciência da Computação da UFScar Sorocaba.
 
 # DevSecOps
-<sub>Autores: Ailton Morais & Alex Rocha</sub>
+<sub>Autores: [Ailton Morais](https://github.com/ailtonmorais) & [Alex Rocha](https://github.com/alrocha003)</sub>
 
 <a id="indice"></a>
 # Índice
