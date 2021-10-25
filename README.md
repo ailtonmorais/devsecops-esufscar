@@ -447,7 +447,8 @@ As responsabilidades são evitadas| As responsabilidades são compartimentadas  
 A ligação entre as equipes é desencorajada| A ligação entre as equipes é permitida, mas desencorajada  | A ligação entre as equipes é recompensada4.06        
 A falha é encoberta     | A organização é justa e misericordiosa  | A falha causa investigação       
 Novas ideias são esmagadas    | Novas ideias criam problemas  | Novas ideias são bem vindas
-<br>Tabela 2: Modelo de cultura organizacional de Westrum</br>
+
+Tabela 2: Modelo de cultura organizacional de Westrum
 
 Ainda segundo o Dr. Ron Westrum a cultura organizacional produtiva se esforça para criar um sistema de trabalho produtivo. Em caso de falhas, ao invés de focar na identificação da pessoa que errou, o ideal é buscar a maneira que o sistema pode ser projetado para evitar que o mesmo incidente aconteça novamente. Pode-se criar um post-mortem para entender melhor o incidente ocorrido e apontar as sugestões para melhoria do sistema ou maneiras mais eficazes de detectar e recuperar o sistema o mais rápido possível.
 
