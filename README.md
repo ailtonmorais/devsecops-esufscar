@@ -447,7 +447,7 @@ As responsabilidades são evitadas| As responsabilidades são compartimentadas  
 A ligação entre as equipes é desencorajada| A ligação entre as equipes é permitida, mas desencorajada  | A ligação entre as equipes é recompensada4.06        
 A falha é encoberta     | A organização é justa e misericordiosa  | A falha causa investigação       
 Novas ideias são esmagadas    | Novas ideias criam problemas  | Novas ideias são bem vindas
-Tabela 2: Modelo de cultura organizacional de Westrum
+<br>Tabela 2: Modelo de cultura organizacional de Westrum</br>
 
 Ainda segundo o Dr. Ron Westrum a cultura organizacional produtiva se esforça para criar um sistema de trabalho produtivo. Em caso de falhas, ao invés de focar na identificação da pessoa que errou, o ideal é buscar a maneira que o sistema pode ser projetado para evitar que o mesmo incidente aconteça novamente. Pode-se criar um post-mortem para entender melhor o incidente ocorrido e apontar as sugestões para melhoria do sistema ou maneiras mais eficazes de detectar e recuperar o sistema o mais rápido possível.
 
@@ -502,3 +502,15 @@ Ao adotar o DevOps grandes barreiras terão que ser superadas, conflitos comuns 
 1. Ci&T. Lean. [Lean: O que é, quando surgiu e como pode impactar a sua empresa](https://ciandt.com/br/pt-br/article/lean-o-que-e-quando-surgiu-e-como-pode-impactar-sua-empresa).  Acesso em 5 out 2021.
 
 2. Google cloud. [Cultura DevOps: cultura organizacional Westrum](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture?hl=pt-br). Acesso em 21 out 2021.
+
+3. Kanbanize. [Kanban Explicado para Iniciantes](https://kanbanize.com/pt/recursos-kanban/primeiros-passos/o-que-e-kanban). Acesso em 21 out 2021.
+
+4. Kim, Gene, et al. Manual de DevOps: Como obter agilidade, confiabilidade e segurança em organizações tecnológicas. Rio de Janeiro: Alta Books, 2018.
+
+5. Objective. [DevOps: por que você precisa aplicar (ou não)?](https://puppet.com/resources/report/2021-state-of-devops-report).  Acesso em 29 set 2021.
+
+6. Opensource.com. [DevSecOps pipelines and tools: What you need to know.](https://www.objective.com.br/insights/e-book-devops-por-que-voce-realmente-precisa-aplicar-ou-nao-o-devops). Acesso em 16 out 2021.
+
+7. POPPENDIECK, Mary; POPPENDIECK, Tom. Implementando o Desenvolvimento Lean de Software: Do Conceito ao Dinheiro. Porto Alegre: Bookman, 2011.
+
+8. Puppet. [The 2021 State of DevOps Report](https://puppet.com/resources/report/2021-state-of-devops-report).  Acesso em 20 out 2021.
