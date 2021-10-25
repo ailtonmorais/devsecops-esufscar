@@ -341,11 +341,11 @@ Todos estes conflitos entre os departamentos impactam diretamente os objetivos o
 
 Parte do problema está relacionado a definição da natureza das funções de cada departamento e a cultura organizacional que não incentiva o trabalho interligado e colaborativo para buscar a realização do objetivo global da organização. Geralmente as atividades dos setores que impactam diretamente a área de TI são:
 
-* **Suppliers:** Criação de código fonte de qualidade e entrega de software que gere valor ao cliente sem descuidar da segurança. 
+* **Desenvolvimento:** Criação de código fonte de qualidade e entrega de software que gere valor ao cliente sem descuidar da segurança. 
   
-* **Customers:** Garantir a integridade e segurança dos sistemas e dados da organização.
+* **Segurança:** Garantir a integridade e segurança dos sistemas e dados da organização.
   
-* **Employees:** Garantir o funcionamento das aplicações e infraestrutura para entrega de valor para o cliente.
+* **Operações:** Garantir o funcionamento das aplicações e infraestrutura para entrega de valor para o cliente.
   
 A proposta do DevSecOps é que as equipes de desenvolvimento, operações e segurança trabalhem juntos para assegurar o sucesso de toda a organização. A união de propósito entre os departamentos possibilita a adoção de ferramentas e plataformas comuns, além da automatização de todas as atividades possíveis para diminuir a dependência diária de acionamento das diferentes equipes para realização de atividades relacionadas ao fluxo de implementação de software.
 
